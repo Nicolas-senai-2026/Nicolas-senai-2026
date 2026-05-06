@@ -1,4 +1,4 @@
-# Olá, eu sou o [NIcolas Yuhei Nomi]! 👋
+# Olá, eu sou o Nicolas Yuhei Nomi! 👋
 
 Estudante de programação focado em Python, C++ e Lógica de Programação. 🚀
 
