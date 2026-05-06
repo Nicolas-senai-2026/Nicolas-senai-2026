@@ -10,7 +10,7 @@ Estudante de programação focado em Python, C++ e Lógica de Programação. �
 
 ## 📊 GitHub Stats:
 <!-- Esses cards são gerados automaticamente -->
-[![Minhas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula)](https://github.com/SEU_USUARIO_AQUI)
+[![Minhas Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-senai-2026&layout=compact&theme=dracula)](https://github.com/SEU_USUARIO_AQUI)
 ## 🌐 Conecte-se comigo:
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nicolas_senai_2026/)
