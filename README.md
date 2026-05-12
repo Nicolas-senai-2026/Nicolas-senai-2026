@@ -1,6 +1,8 @@
 # Olá, eu sou o Nicolas Yuhei Nomi! 👋
 
 Estudante de programação focado em Python, C++ e Lógica de Programação. 🚀
+
+
 Entusiasta de Tecnologia & Aprendiz Front-End | Construindo as bases em HTML e JavaScript
 
 ## 🛠 Tech Stack:
