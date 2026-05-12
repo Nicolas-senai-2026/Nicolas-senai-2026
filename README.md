@@ -1,7 +1,7 @@
 # Olá, eu sou o Nicolas Yuhei Nomi!
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ESTUDANTE-1f6feb?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ESTUDANTE SENAI-1f6feb?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/DESENVOLVEDOR-238636?style=for-the-badge"/>
 </p>
 
@@ -42,6 +42,7 @@ Sempre buscando aprender mais sobre desenvolvimento de software, programação e
   </a>
 </p>
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nicolas_senai_2026/
 ---
 
 # 📈 Estatísticas GitHub
