@@ -48,9 +48,10 @@ Sempre buscando aprender mais sobre desenvolvimento de software, programação e
 # 📈 Estatísticas GitHub
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-senai-2026
+&show_icons=true&theme=tokyonight"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
