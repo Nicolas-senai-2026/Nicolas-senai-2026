@@ -27,5 +27,5 @@
 Desenvolvedor:
   Nome: Nicolas Yuhei Nomi
   Instituicao: SENAI Limeira-SP
-  Foco_principal: [Backend, Frontend, Arquitetura de Sistemas]
+  Foco principal: [Backend, Frontend, Arquitetura de Sistemas]
   Objetivo: Criar soluções modernas, eficientes e escaláveis.
